@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.90,
+        "imgUrl": "https://plus.unsplash.com/premium_photo-1664006988924-16f386bcd40e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym9va3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": 2,
+        "name": "Computer",
+        "price": 1002,
+        "imgUrl": "https://images.unsplash.com/file-1705123271268-c3eaf6a79b21image?w=416&dpr=2&auto=format&fit=crop&q=60"
+    }, 
+    {
+        "id": 3,
+        "name": "Banana",
+        "price": 1.05,
+        "imgUrl": "https://images.unsplash.com/photo-1528825871115-3581a5387919?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8YmFuYW5hfGVufDB8fDB8fHww"
+    },
+    {
+        "id": 4,
+        "name": "Car",
+        "price": 1230,
+        "imgUrl":"https://plus.unsplash.com/premium_photo-1664303847960-586318f59035?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FyfGVufDB8fDB8fHww"
+    }
+]
